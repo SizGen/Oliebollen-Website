@@ -5,7 +5,7 @@ Ik heb deze website gemaakt voor een oliebollen kraam. Deze oliebollenkraam wou 
 
 # Plan van aanpak
 
-##De klant:
+## De klant
 
 De opdracht komt van de oliebollenkraam. De oliebollenkraam bestaat uit een eenmanszaak die oliebollen verkoopt.
 
