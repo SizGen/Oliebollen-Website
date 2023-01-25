@@ -20,12 +20,24 @@ Het doel is om een website te maken die goed functioneert en duidelijk is dat er
 
 # Fuctioneel ontwerp 
 
-Je moet op de website oliebollen kunnen bestellen en informatie krijgen over onze oliebollen kraam.
+De klant wilt graag een website waar mensen overal in Nederland oliebollen kunnen bestellen. Er moet dus een mogelijkheid zijn om alle soorten oliebollen te bestellen en online te betalen. 
 
 
 # Technisch ontwerp
 
-Er moet een home pagina komen waar een beetje informatie over de oliebollenkram staat. Er moet ook een winkel pagina komen waar je alle producten kan bestellen. En er moet een contact pagina komen waar je een mail kan sturen via een form.
+### Home pagina
+
+Op de home pagina moeten een paar foto's komen van oliebollen. Er moet ook een klein beetje tekst op staan om meer informatie te krijgen over de oliebollen kraam.
+
+
+### Winkel pagina
+
+Op de winkel pagina kun je de producten bekijken en bestellen.
+
+
+### Contact pagina
+
+Op de contact pagina kun je een formulier invullen om een bericht te sturen naar de oliebollenkraam.
 
 
 # Versiebeheer
