@@ -1,6 +1,6 @@
 ## Projectomschrijving
 
-Deze website is gemaakt voor een oliebollen kraam. Met deze website zou je oliebollen moeten kunnen bestellen. Je oliebollen worden dan de volgende dag bezorgd. 
+Ik heb deze website gemaakt voor een oliebollen kraam. Deze oliebollenkraam wou graag meer verkopen dus daarom heb ik een website gemaakt waardoor mensen oliebollen kunnen kopen in heel Nederland en niet alleen in de buurt van de oliebollen kraam. Het is de bedoeling dat het in met 1 werkdag in huis is.
 
 
 ## Plan van aanpak
