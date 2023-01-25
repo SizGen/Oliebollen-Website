@@ -6,12 +6,15 @@ Ik heb deze website gemaakt voor een oliebollen kraam. Deze oliebollenkraam wou 
 # Plan van aanpak
 
 ##De klant:
+
 De opdracht komt van de oliebollenkraam. De oliebollenkraam bestaat uit een eenmanszaak die oliebollen verkoopt.
 
 ##Het project:
+
 De oliebollenkraam wil meer verkopen daarvoor wil hij oliebollen aanbieden op het internet en wilt daarom een website hebben. 
 
 ##Het doel:
+
 Het doel is om een website te maken die goed functioneert en duidelijk is dat er oliebollen te bestellen zijn. Afbakening en op te leveren project. Voor de oliebollenkraam en mij moet het duidelijk zijn wat er wel en niet gedaan wordt met het project. Het project start met de huidige situatie: er is geen website en dus kan er ook niet besteld worden. De beperkingen liggen bij de tijdsduur van het project namelijk 2 weken en het budget. Het budget is nog niet afgesproken met de opdrachtgever. Aan het einde van het project zou er een werkend product te presenteren zijn. Dit bevat een website waarmee mensen kunnen bestellen.
 
 
